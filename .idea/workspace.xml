@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bb95dcb-cf96-447b-9d20-6921b341e870" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/concatenation/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/containsDuplicate/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/groupAnagrams/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/longestCommonPrefix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/removeElement/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/replaceElements/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/twoSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/twoSumII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/validAnagram/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/arrangingCoins/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/search/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/searchInsertPosition/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/sqrtOfX/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/squaresOfSortedArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/validPerfectSquare/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/climbingStairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/coinChange/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/houseRobber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/houseRobberII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/longestIncreasingSubsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/longestPalindromicSubstring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/minCostClimbingStairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/countSubIslands/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/islandPerimeter/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/maxAreaOfIsland/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/numOfIslands/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/InvertTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/ancestorOfBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/balancedBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/diameterOfBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/goodNodes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/levelOrder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/maxDepthOfBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/mergeTrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/minDistanceInBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/pathSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/rightSideView/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/sameTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/sortedArrayToBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/subTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/concatenation/ConcatenationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/containsDuplicate/ContainsDuplicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/groupAnagrams/GroupAnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/longestCommonPrefix/LongestCommonPrefixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/removeElement/RemoveElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/replaceElements/ReplaceElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/twoSum/TwoSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/twoSumII/TwoSum2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/validAnagram/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysHashing/validAnagram/ValidAnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/arrangingCoins/ArrangingCoinsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/search/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/searchInsertPosition/SearchInsertPositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/sqrtOfX/SqrtOfXTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/squaresOfSortedArray/SquaresOfSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/validPerfectSquare/ValidPerfectSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/climbingStairs/ClimbingStairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/coinChange/CoinChangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/houseRobber/HouseRobberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/houseRobberII/HouseRobberIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubseqTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/longestPalindromicSubstring/LongestPalindromicSubstringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgramming/minCostClimbingStairs/MinCostClimbingStairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/graphs/countSubIslands/CountSubIslandsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/graphs/islandPerimeter/IslandPerimeterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/graphs/maxAreaOfIsland/MaxAreaOfIslandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/graphs/numOfIslands/NumOfIslandsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/ancestorOfBST/AncestorOfBSTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/balancedBinaryTree/IsBalancedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/diameterOfBinaryTree/DiameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/goodNodes/GoodNodesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/invertTree/InvertTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/levelOrder/LevelOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/maxDepthOfbianryTree/MaxDepthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/mergeTrees/MergeTreesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/minDistanceInBST/MinDistanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/pathSum/PathSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/rightSideView/RightSideViewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/sameTree/SameTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/sortedArrayToBST/SortedArrayToBSTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/trees/subTree/SubTreeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Za9SHDp7zz9fd5M2x1arpSDBpD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Desktop/codebusters/algoExercises/algoExercises&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\codebusters\Tree\src\test\java" />
+      <recent name="C:\Users\HP\Desktop\codebusters\Tree\src\test\java\trees" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.arraysHashing.twoSum" />
+      <recent name="org.example.arraysHashing.replaceElements" />
+      <recent name="org.example.arraysHashing.removeElements" />
+      <recent name="org.example.arraysHashing.longestCommonPrefix" />
+      <recent name="org.example.dynamicProgramming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Tree">
+    <configuration name="All in Tree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceElementsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysHashing.replaceElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysHashing.replaceElements" />
+      <option name="MAIN_CLASS_NAME" value="arraysHashing.replaceElements.ReplaceElementsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysHashing.twoSumII.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysHashing.twoSumII" />
+      <option name="MAIN_CLASS_NAME" value="arraysHashing.twoSumII.TwoSum2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysHashing.twoSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysHashing.twoSum" />
+      <option name="MAIN_CLASS_NAME" value="arraysHashing.twoSum.TwoSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binarySearch in Tree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="binarySearch" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Tree" />
+        <item itemvalue="JUnit.binarySearch in Tree" />
+        <item itemvalue="JUnit.TwoSum2Test" />
+        <item itemvalue="JUnit.TwoSumTest" />
+        <item itemvalue="JUnit.ReplaceElementsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb95dcb-cf96-447b-9d20-6921b341e870" name="Changes" comment="" />
+      <created>1702649326894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702649326894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/bfs/Main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/bfs/Main.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/graphs/numOfIslands/Solution.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/trees/levelOrder/LevelOrderTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/arraysHashing/longestCommonPrefix/LongestCommonPrefixTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
