@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb95dcb-cf96-447b-9d20-6921b341e870" name="Changes" comment="Merge branch 'master'&#10;&#10;Arrays and hashing exos with UT">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/findElement/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/findFirstLarger/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/findFirstTrue/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/findMinimum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/findPeak/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binarySearch/newsPapers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/findElement/FindElementTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/findFirstLarger/FindFirstLargerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/findFirstTrue/FindFirstTrueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/findMinimum/FindMinimumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/findPeak/FindPeakIndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binarySearch/newsPapers/minAmountOfTimeTest.java" afterDir="false" />
+    <list default="true" id="0bb95dcb-cf96-447b-9d20-6921b341e870" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mathAndGeometry/dividingSequence/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mathAndGeometry/dividingSequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mathAndGeometry/perfectPthPowers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mathAndGeometry/PerfectPthPowers/PerfectPthPowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mathAndGeometry/dividingSequence/LongestDividingSequenceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,16 +61,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HP/Desktop/codebusters/algoExercises/algoExercises/src/main/java/org/example/binarySearch"
+    "last_opened_file_path": "C:/Users/HP/Desktop/codebusters/algoExercises/algoExercises/src/test/java/mathAndGeometry"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java\mathAndGeometry" />
+      <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java" />
       <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\main\java\org\example\binarySearch" />
       <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java\binarySearch" />
-      <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java" />
       <recent name="C:\Users\HP\Desktop\codebusters\Tree\src\test\java" />
-      <recent name="C:\Users\HP\Desktop\codebusters\Tree\src\test\java\trees" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="findFirstLarger" />
@@ -87,23 +80,7 @@
       <recent name="org.example.arraysHashing.longestCommonPrefix" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.minAmountOfTimeTest.minAmountOfTimeToReadNewspapersTest">
-    <configuration name="FindMinimumTest.findMinInRotatedSortedArrayTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgoExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarySearch.findMinimum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="binarySearch.findMinimum" />
-      <option name="MAIN_CLASS_NAME" value="binarySearch.findMinimum.FindMinimumTest" />
-      <option name="METHOD_NAME" value="findMinInRotatedSortedArrayTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LongestDividingSequenceTest.longestDividingSequenceTest">
     <configuration name="FindPeakIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExercises" />
       <extension name="coverage">
@@ -119,22 +96,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakIndexTest.findPeakIndexInMountainArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgoExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarySearch.findPeak.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="binarySearch.findPeak" />
-      <option name="MAIN_CLASS_NAME" value="binarySearch.findPeak.FindPeakIndexTest" />
-      <option name="METHOD_NAME" value="findPeakIndexInMountainArrayTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FindPeakIndexTest.findPeakIndexInMountainArrayWithOtherValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExercises" />
       <extension name="coverage">
@@ -146,6 +107,38 @@
       <option name="PACKAGE_NAME" value="binarySearch.findPeak" />
       <option name="MAIN_CLASS_NAME" value="binarySearch.findPeak.FindPeakIndexTest" />
       <option name="METHOD_NAME" value="findPeakIndexInMountainArrayWithOtherValuesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestDividingSequenceTest.longestDividingSequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathAndGeometry.dividingSequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mathAndGeometry.dividingSequence" />
+      <option name="MAIN_CLASS_NAME" value="mathAndGeometry.dividingSequence.LongestDividingSequenceTest" />
+      <option name="METHOD_NAME" value="longestDividingSequenceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectPthPowerTest.perfectPthPowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PerfectPthPowers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PerfectPthPowers" />
+      <option name="MAIN_CLASS_NAME" value="PerfectPthPowers.PerfectPthPowerTest" />
+      <option name="METHOD_NAME" value="perfectPthPowerTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -169,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestDividingSequenceTest.longestDividingSequenceTest" />
+        <item itemvalue="JUnit.PerfectPthPowerTest.perfectPthPowerTest" />
         <item itemvalue="JUnit.minAmountOfTimeTest.minAmountOfTimeToReadNewspapersTest" />
         <item itemvalue="JUnit.FindPeakIndexTest" />
         <item itemvalue="JUnit.FindPeakIndexTest.findPeakIndexInMountainArrayWithOtherValuesTest" />
-        <item itemvalue="JUnit.FindPeakIndexTest.findPeakIndexInMountainArrayTest" />
-        <item itemvalue="JUnit.FindMinimumTest.findMinInRotatedSortedArrayTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +179,19 @@
       <option name="presentableId" value="Default" />
       <updated>1702649326894</updated>
     </task>
+    <task id="LOCAL-00001" summary="binary search exos and tests">
+      <created>1705392937399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705392937400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="binary search exos and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search exos and tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
