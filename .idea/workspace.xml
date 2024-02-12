@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bb95dcb-cf96-447b-9d20-6921b341e870" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mathAndGeometry/dividingSequence/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mathAndGeometry/dividingSequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mathAndGeometry/perfectPthPowers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mathAndGeometry/PerfectPthPowers/PerfectPthPowerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mathAndGeometry/dividingSequence/LongestDividingSequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Drawdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyBigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/StringReduction/StringReduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arraysHashing/janitorEfficient/JanitorEfficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/weakVertices/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mathAndGeometry/DiverseDeputation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/JungleBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/TreeNode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twoPointer/moveZeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twoPointer/removeDuplicates/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/twoPointer/removeDuplicates2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/graphs/weakVertices/weakVerticesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/twoPointer/removeDuplicates2/removeDuplicatesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +35,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -61,16 +69,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HP/Desktop/codebusters/algoExercises/algoExercises/src/test/java/mathAndGeometry"
+    "last_opened_file_path": "C:/Users/HP/Desktop/codebusters/Snake-Game"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java\twoPointer" />
+      <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java\graphs" />
       <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java\mathAndGeometry" />
       <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java" />
       <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\main\java\org\example\binarySearch" />
-      <recent name="C:\Users\HP\Desktop\codebusters\algoExercises\algoExercises\src\test\java\binarySearch" />
-      <recent name="C:\Users\HP\Desktop\codebusters\Tree\src\test\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="findFirstLarger" />
@@ -80,34 +88,29 @@
       <recent name="org.example.arraysHashing.longestCommonPrefix" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LongestDividingSequenceTest.longestDividingSequenceTest">
-    <configuration name="FindPeakIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Drawdowns">
+    <configuration name="Drawdowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Drawdowns" />
       <module name="AlgoExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarySearch.findPeak.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="binarySearch.findPeak" />
-      <option name="MAIN_CLASS_NAME" value="binarySearch.findPeak.FindPeakIndexTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakIndexTest.findPeakIndexInMountainArrayWithOtherValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyBigInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MyBigInteger" />
       <module name="AlgoExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarySearch.findPeak.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="binarySearch.findPeak" />
-      <option name="MAIN_CLASS_NAME" value="binarySearch.findPeak.FindPeakIndexTest" />
-      <option name="METHOD_NAME" value="findPeakIndexInMountainArrayWithOtherValuesTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,45 +131,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectPthPowerTest.perfectPthPowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="removeDuplicatesTest.testRemovingDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PerfectPthPowers.*" />
+          <option name="PATTERN" value="twoPointer.removeDuplicates2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PerfectPthPowers" />
-      <option name="MAIN_CLASS_NAME" value="PerfectPthPowers.PerfectPthPowerTest" />
-      <option name="METHOD_NAME" value="perfectPthPowerTest" />
+      <option name="PACKAGE_NAME" value="twoPointer.removeDuplicates2" />
+      <option name="MAIN_CLASS_NAME" value="twoPointer.removeDuplicates2.removeDuplicatesTest" />
+      <option name="METHOD_NAME" value="testRemovingDuplicates" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minAmountOfTimeTest.minAmountOfTimeToReadNewspapersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="weakVerticesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarySearch.newsPapers.*" />
+          <option name="PATTERN" value="graphs.weakVertices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="binarySearch.newsPapers" />
-      <option name="MAIN_CLASS_NAME" value="binarySearch.newsPapers.minAmountOfTimeTest" />
-      <option name="METHOD_NAME" value="minAmountOfTimeToReadNewspapersTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="graphs.weakVertices" />
+      <option name="MAIN_CLASS_NAME" value="graphs.weakVertices.weakVerticesTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Drawdowns" />
+        <item itemvalue="Application.MyBigInteger" />
+        <item itemvalue="JUnit.removeDuplicatesTest.testRemovingDuplicates" />
+        <item itemvalue="JUnit.weakVerticesTest" />
         <item itemvalue="JUnit.LongestDividingSequenceTest.longestDividingSequenceTest" />
-        <item itemvalue="JUnit.PerfectPthPowerTest.perfectPthPowerTest" />
-        <item itemvalue="JUnit.minAmountOfTimeTest.minAmountOfTimeToReadNewspapersTest" />
-        <item itemvalue="JUnit.FindPeakIndexTest" />
-        <item itemvalue="JUnit.FindPeakIndexTest.findPeakIndexInMountainArrayWithOtherValuesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -186,12 +188,20 @@
       <option name="project" value="LOCAL" />
       <updated>1705392937400</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Some Math exos and tests">
+      <created>1705395094003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705395094004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="binary search exos and tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary search exos and tests" />
+    <MESSAGE value="Some Math exos and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some Math exos and tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -231,10 +241,25 @@
           <line>8</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/twoPointer/removeDuplicates2/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Drawdowns.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Drawdowns.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/binarySearch/findFirstLarger/FindFirstLargerTest.java</url>
           <line>14</line>
-          <properties class="binarySearch.findFirstLarger.FindFirstLargerTest" method="testFindFirstLargerThanTargetInSortedArrayWithDifferentValues">
+          <properties class="binarySearch.findFirstLarger.FindFirstLargerTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
