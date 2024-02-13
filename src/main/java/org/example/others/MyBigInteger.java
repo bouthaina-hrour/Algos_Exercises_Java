@@ -144,36 +144,4 @@ public class MyBigInteger {
         return 0;
     }
 
-    public static void main(String[] args) {
-        // positive et negative
-        MyBigInteger exemple1 = new MyBigInteger(3);
-        MyBigInteger exemple2 = new MyBigInteger(-5);
-
-        System.out.println(exemple1.substract(exemple2));
-        System.out.println(exemple1.add(exemple2));
-
-        // positive et positive
-        MyBigInteger exemple3 = new MyBigInteger(3);
-        MyBigInteger exemple4 = new MyBigInteger(5);
-
-        System.out.println(exemple3.substract(exemple4));
-        System.out.println(exemple3.add(exemple4));
-
-        //  negative  et negative
-        MyBigInteger exemple5 = new MyBigInteger(-3);
-        MyBigInteger exemple6 = new MyBigInteger(-5);
-
-        System.out.println(exemple5.substract(exemple6));
-        System.out.println(exemple5.add(exemple6));
-
-
-        //  negative  et positive
-        MyBigInteger exemple7 = new MyBigInteger(-3);
-        MyBigInteger exemple8 = new MyBigInteger(5);
-
-        System.out.println(exemple7.substract(exemple8));
-        System.out.println(exemple7.add(exemple8));
-    }
-
-
 }
